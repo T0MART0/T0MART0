@@ -11,9 +11,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=T0MART0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://aaron-159.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" alt="For Recruiters">
-</a>
+[![Recruiters Click Here](https://img.shields.io/badge/Recruiters-Click%20Here-brightgreen?style=for-the-badge)](https://aaron-159.pages.dev/)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
